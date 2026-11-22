@@ -1,5 +1,7 @@
 # Daejeon Hankok MCP server (대전한콕)
 
+[![mcptry](https://mcptry.com/badge/com.ferrorium.daejeon/hankok)](https://mcptry.com/servers/com.ferrorium.daejeon/hankok)
+
 <img src="icon.png" width="96" alt="Daejeon Hankok icon">
 
 A free, read-only remote MCP server for local life in Daejeon, Korea. It covers about 8,600 restaurants, cafes, hair salons and nail shops with opening hours, prices, parking and Naver booking links, plus hair designers, festivals and budget-friendly "good price" shops. Name search also works for shops across Korea.
