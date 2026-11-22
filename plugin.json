@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "daejeon-hankok",
+  "version": "1.2.0",
+  "description": "Read-only remote MCP server for Daejeon, Korea: 8,600+ restaurants, cafes, hair and nail salons with hours, photos and Naver booking links, plus stylists, festivals and good-price shops.",
+  "author": { "name": "Daejeon Hankok", "url": "https://daejeon.ferrorium.com/about" },
+  "homepage": "https://daejeon.ferrorium.com/ai",
+  "repository": "https://github.com/iamhuman-cheolheelee/daejeon-hankok-mcp",
+  "license": "MIT",
+  "keywords": ["daejeon", "korea", "local", "restaurants", "hair-salon", "booking", "naver", "travel"]
+}
