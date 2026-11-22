@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.ferrorium.daejeon/hankok",
+  "title": "대전한콕 Daejeon Hankok",
+  "description": "Daejeon, Korea guide: 8,600+ restaurants, cafes, hair and nail salons with Naver booking links.",
+  "version": "1.2.0",
+  "websiteUrl": "https://daejeon.ferrorium.com/ai",
+  "repository": {
+    "url": "https://github.com/iamhuman-cheolheelee/daejeon-hankok-mcp",
+    "source": "github"
+  },
+  "icons": [
+    { "src": "https://daejeon.ferrorium.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
+    { "src": "https://daejeon.ferrorium.com/icon-192.png", "mimeType": "image/png", "sizes": ["192x192"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://daejeon.ferrorium.com/mcp" }
+  ]
+}
