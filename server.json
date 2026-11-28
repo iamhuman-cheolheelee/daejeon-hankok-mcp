@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.ferrorium.daejeon/hankok",
   "title": "대전한콕 Daejeon Hankok",
-  "description": "Daejeon, Korea guide: 8,600+ restaurants, cafes, hair and nail salons with Naver booking links, plus shop lists for regions across Korea.",
+  "description": "Daejeon and all-Korea guide: restaurants, cafes, hair and nail salons with Naver booking links.",
   "version": "1.3.0",
   "websiteUrl": "https://daejeon.ferrorium.com/ai",
   "repository": {
