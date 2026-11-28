@@ -4,7 +4,7 @@
 
 <img src="icon.png" width="96" alt="Daejeon Hankok icon">
 
-A free, read-only remote MCP server for local life in Daejeon, Korea. It covers about 8,600 restaurants, cafes, hair salons and nail shops with opening hours, prices, parking and Naver booking links, plus hair designers, festivals and budget-friendly "good price" shops. Name search also works for shops across Korea.
+A free, read-only remote MCP server for local life in Daejeon, Korea. It covers about 8,600 restaurants, cafes, hair salons and nail shops with opening hours, prices, parking and Naver booking links, plus hair designers, festivals and budget-friendly "good price" shops. Shop lists for the rest of Korea, by province, district and neighborhood, cover about 580,000 more places.
 
 No sign-in, no API key and nothing to install.
 
@@ -45,6 +45,7 @@ All tools are read-only and marked with `readOnlyHint`.
 | list_places | Shops of one category in one neighborhood, nearest first, with address, booking, hours, price range and parking. |
 | get_place | Full detail of a shop: address, coordinates, hours, phone, parking, Naver booking URL, menu or service prices. |
 | search_places | Find shops by name, menu, service or address. Daejeon first, then shops across Korea by name and area. |
+| list_region_places | Shops of one category in any region of Korea outside Daejeon. Takes a name like 성수동 or 해운대구, or a region code. |
 | places_near | Shops around a coordinate, nearest first, up to 10 km. |
 | events_and_deals | Daejeon festivals, shows and exhibitions, or government listed good price shops. |
 | search_stylists | Hair designers by name, specialty (perm, bleach, layered cut), salon or neighborhood. |
@@ -61,6 +62,7 @@ Tool descriptions are written in Korean because most questions about Daejeon are
 - Find a hair designer good at hippie perm near Daejeon Station and give me the booking link
 - 이번 주말 대전 축제 뭐 있어?
 - 만원 이하 점심 되는 착한가격업소 유성구
+- 성수동 카페 중에 네이버 예약 되는 곳
 
 ## Data
 
